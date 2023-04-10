@@ -27,7 +27,7 @@ nav ul li a{
     text-transform: capitalize;
 }
 nav ul li a:hover{
-    color:rebeccapurple;
+    color:rgb(7, 57, 4);
     transition: .4s;
 }
 .underline-list{
