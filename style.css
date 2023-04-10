@@ -33,5 +33,14 @@ nav ul li a:hover{
 .underline-list{
     border-bottom: 3px solid black;
 }
+p{
+    color: navy;
+    font-size: 14px;
+    line-height: 1.4em;
+}
+h1{
+    color: blue;
+    padding: 10px
+}
 
 
