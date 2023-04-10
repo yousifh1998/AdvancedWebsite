@@ -4,7 +4,7 @@
     font-family: sans-serif;   
 }
 header {
-    background-color: aquamarine;
+    background-color: rgb(55, 27, 27);
 }
 
 nav{
@@ -42,5 +42,14 @@ h1{
     color: blue;
     padding: 10px
 }
+.header{
+    height: 11%;
+    width: 100%;
+    position: absolute;
+}
+.Photo-Header h2{
+    position: relative;
+    color: blanchedalmond;
 
 
+}
