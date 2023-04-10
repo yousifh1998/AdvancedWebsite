@@ -3,6 +3,9 @@
     padding: 0;
     font-family: sans-serif;   
 }
+header {
+    background-color: aquamarine;
+}
 
 nav{
     display:flex;
@@ -15,7 +18,7 @@ nav{
 nav ul li{
     list-style-type: none;
     display: inline-block;
-    padding: 10px 5px;
+    padding: 10px 2px;
 }
 nav ul li a{
     color: blue;
@@ -27,6 +30,8 @@ nav ul li a:hover{
     color:rebeccapurple;
     transition: .4s;
 }
-
+.underline-list{
+    border-bottom: 3px solid black;
+}
 
 
