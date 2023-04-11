@@ -5,6 +5,7 @@
 }
 header {
     background-color: rgb(55, 27, 27);
+    
 }
 
 nav{
@@ -49,7 +50,19 @@ h1{
 }
 .Photo-Header h2{
     position: relative;
-    color: blanchedalmond;
-
-
+    color: rgb(240, 6, 228);
+}
+.Work{width: 80%;
+      height: 20%;
+      position: relative;
+}
+.overlay{
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom:0;
+    opacity: 0;
+    transition: opacity 0.4s ease-in-out;
+    background-color: black;
 }
