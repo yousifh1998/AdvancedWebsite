@@ -67,3 +67,14 @@ h1{
     width: 30%;
     height: 20%
 }
+.tabs img {
+    width: 50%;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: navy;
+}
+.tabs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
