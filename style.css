@@ -70,6 +70,9 @@ h1{
 .Surf{
     height: 350px;
     width: 450px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: navy;
 }
 .tabs img {
     width: 38%;
